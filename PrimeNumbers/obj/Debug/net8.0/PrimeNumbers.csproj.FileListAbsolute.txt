@@ -1,0 +1,14 @@
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfoInputs.cache
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfo.cs
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\NUnit\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.exe
+D:\aaa\testt\NUnit\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.deps.json
+D:\aaa\testt\NUnit\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.runtimeconfig.json
+D:\aaa\testt\NUnit\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.dll
+D:\aaa\testt\NUnit\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.pdb
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.dll
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\refint\PrimeNumbers.dll
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.pdb
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.genruntimeconfig.cache
+D:\aaa\testt\NUnit\PrimeNumbers\obj\Debug\net8.0\ref\PrimeNumbers.dll
